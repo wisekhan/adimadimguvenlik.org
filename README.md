@@ -6,7 +6,7 @@ I decided to continue on this platform!
 
 The idea was simple : I wanted to write articles about the cyber security describing the subject step by step, thinking as a reference for me and everyone!
 
-You can find in this repository all articles that were in **adimadimguvenlik.org** which was mainly Turkish\.
+You can find in this repository all articles that were in **adimadimguvenlik.org** which was mainly in Turkish\.
 The new articles will be in English under [**stepbystepsecurity**](https://github.com/wisekhan/stepbystepsecurity) repo
 
 
