@@ -1,5 +1,5 @@
 # adimadimguvenlik.org
-Articles in my old **adimadimguvenlik.org** blog site, the most of them in Turkish.
+Articles in my old **adimadimguvenlik.org** blog site, the most of them in Turkish. I dont have time to translate them all. But you can simply use google translate!
 This was my old blog about step by step security\.
 
 I decided to continue on this platform!
